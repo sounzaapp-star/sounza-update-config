@@ -1,6 +1,6 @@
 {
-  "minimum_supported_version": "1.0.4",
-  "latest_version": "1.0.4",
+  "minimum_supported_version": "1.0.2",
+  "latest_version": "1.0.2",
   "force_update": true,
   "update_url": "https://apkpure.com/sounza/com.sounza.app",
   "ads_enabled": false,
